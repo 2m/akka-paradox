@@ -3,7 +3,7 @@ import sbt._
 object Version {
   val foundation = "6.3.1"
   val prettify   = "4-Mar-2013-1"
-  val sbtParadox = "0.2.11-SNAPSHOT" // todo: use published version
+  val sbtParadox = "0.2.10+32-11e2de77" // todo: use published version
 }
 
 object Library {
